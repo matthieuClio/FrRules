@@ -89,3 +89,12 @@ POST	   -     /api/auth/login	  -    Login and retrieve JWT
 ### Users
 Method	 -     Endpoint	       -     Protected  
 GET	    -      /api/users/profile	 -  JWT required
+
+## Project Purpose
+This project demonstrates:  
+
+- REST API development with Node.js  
+- Secure authentication with JWT  
+- Relational database design using MySQL  
+- loud deployment
+- Backend architecture suitable for React applications
