@@ -98,3 +98,6 @@ This project demonstrates:
 - Relational database design using MySQL  
 - loud deployment
 - Backend architecture suitable for React applications
+
+## Contact :  
+https://www.linkedin.com/in/matthieuclio/
