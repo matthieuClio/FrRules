@@ -96,7 +96,7 @@ This project demonstrates:
 - REST API development with Node.js  
 - Secure authentication with JWT  
 - Relational database design using MySQL  
-- loud deployment
+- Cloud deployment
 - Backend architecture suitable for React applications
 
 ## Contact :  
